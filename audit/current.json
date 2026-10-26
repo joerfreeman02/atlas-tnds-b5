@@ -1,0 +1,20 @@
+{
+  "schema": "atlas-reference-data-publication-audit-v3",
+  "publicationVersion": "40340530395-108d898221f84c78c061db4f81335dcd911d6a0e",
+  "generatedAt": "2026-10-20T13:28:46Z",
+  "dataset": "tnds",
+  "bankId": "B",
+  "rootId": "B5",
+  "sourceSha256": "af72f8bb929a1d1fe9a3f703d1ec424628f289c7ba502f7a6dbb286a7a072110",
+  "candidateSha256": "37d91d5f9747bcd74d78b10ad39a7e0bfc1a0876b8eed11792121aa331497fa1",
+  "candidateBytes": 811189031,
+  "candidateFiles": 2576,
+  "regions": [
+    "EM",
+    "Y"
+  ],
+  "allocation": {
+    "bytes": 809714116,
+    "fileCount": 2573
+  }
+}
